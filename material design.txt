@@ -1,0 +1,35 @@
+1. Surface --
+	**Adding FAB - Floating Add Bar
+	**Surface reaction - Starting circular/any animation while touching a tab
+	**Adding ripple/Surface elavation - Keeping two surface elavted
+	**Transforming paper - two separate paper can be joined to one
+	**Paper transformation - Start circular animation after touching the paper
+	**Scroll - while scrolling main bar makes an elavated surface while the surface passes through the main bar
+	**Dynamic Scroll - while scrolling the main bar also moves
+
+
+2. Bold graphic design --
+	**Grids and keylines - multiple of 8dp,keylines are used vertically or horizontally
+	**Color --
+		***primary - main idea of the app
+		***secondary - the comment of the app
+		***accent - highlighting part of the app such as fab, toggle etc
+		the contrast of the accent color and the primary should be closer to each other
+
+
+3. Type -- 
+	**Type should be roboto
+	**scale - sp/scale independant pixels
+	**Choose simple fonts
+
+
+4. Transition manager --
+	**Add animation
+	**Reverse the transition when it is coming back
+	**Instructive motion - swipe to move
+	**Aniation neither be slow nor fast -- 300ms 
+
+
+5. Motion -- 
+	**Motion should be in a coordinated way not in a chaotic way
+	

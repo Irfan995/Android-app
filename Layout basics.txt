@@ -1,0 +1,18 @@
+>>>XML -- extensible markup language
+	**it is a way how android app will look like. More like decoration of android app.
+
+>>>Text -- text scale should be density independent pixels(dp) units. because it can cover any pixel mobile phone.
+
+>>>Common Android Views -- a website
+
+>>>Wrap content -- wraping the content
+
+>>>Linear layout -- i) horizontal column.
+		    ii) vertical row.
+
+>>>relative layout -- a layout relative to another layout
+
+>>>android orientation -- i) horizontal
+			  ii) vertical
+
+>>>For equally spaced button layout_height and layout_weight should be 0 dp and 1 dp respectively.
